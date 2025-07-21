@@ -18,14 +18,6 @@ Luro is an innovative social media marketing platform designed to help you strea
 - Custom report generation
 - ROI tracking and analysis
 
-## 🔗 Live Preview
-
-Check out the live demo of Luro here: [Live Preview](http://luro-ai.vercel.app)
-
-## 🎥 Watch Demo on YouTube
-
-Check out the tutorial to see how this social media marketing platform was built: [Watch the Tutorial](https://youtu.be/q8mOwYrpAHA?si=XpGy9VIKkaWJmfPL) 💻 
-
 ## 💻 Tech Stack
 
 * Next.js
@@ -44,7 +36,7 @@ To run Luro locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Shreyas-29/luro-ai.git
+    git clone https://github.com/bforbilly24/luroai-nextjs-frontend-app.git
     ```
 2. Install dependencies:
     ```bash
@@ -73,16 +65,5 @@ To run Luro locally, follow these steps:
     pnpm run dev
     ```
 
-## ☕ Buy Me a Coffee
-If you enjoy using Luro, consider supporting my work!  
-[Buy Me a Coffee ☕](https://buymeacoffee.com/shreyas29)
-
 ## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## 💬 Contact
-If you have any questions or feedback, feel free to reach out via [GitHub Issues](https://github.com/Shreyas-29/luro-ai/issues).
-
----
-
-Built with ❤️ by [Shreyas](https://shreyas-sihasane.vercel.app/)
